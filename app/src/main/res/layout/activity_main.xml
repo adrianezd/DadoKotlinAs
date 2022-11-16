@@ -30,5 +30,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Tirar" />
+        android:textSize="20dp"
 
 </LinearLayout>
